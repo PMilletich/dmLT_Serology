@@ -6,8 +6,8 @@
   - Output - Titer and Fold-Rise jpegs
 
 ## 2. Fecal IgA
-  - Input -
-  - Output - 
+  - Input - Data file (EDU_1.csv)
+  - Output - Geometric mean Fold Rise of ratio of Specific dmLT Antibodies to total antibodies in frozen stool 
 
 ## 3. Spearman Correlation
   - Input: Data file (EDI_1.csv)
